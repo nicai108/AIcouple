@@ -64,6 +64,3 @@ AIcouple/
 - 会话数据保存在本地 `sessions/` 文件夹，请勿上传到 Git（已在 .gitignore 中排除）。
 - 本项目仅供学习与个人使用，请遵守所用 API 的服务条款。
 
-## 📜 License
-
-MIT License（可自行补充 LICENSE 文件后再标注）
