@@ -1,13 +1,13 @@
 # Python
-   __pycache__/
-   *.py[cod]
-   .venv/
-   venv/
-   # IDE
-   .idea/
-   *.iml
-   *.name
-   # 会话数据与密钥
-   sessions/
-   .env
-   *.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# IDE
+.idea/
+*.iml
+*.name
+# 会话数据与密钥
+sessions/
+.env
+*.key
